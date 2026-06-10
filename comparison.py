@@ -1,3 +1,4 @@
+# Collect user input
 A = input("Enter the first number: ")
 B = input("Enter the second number: ")
 
