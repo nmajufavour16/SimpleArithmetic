@@ -1,5 +1,5 @@
 # Collect user input
-A = input("Enter the first number: ")
+A = (input("Enter the first number: "))
 B = input("Enter the second number: ")
 
 # Write a code to do the following: the code takes in two numbers A and B.
